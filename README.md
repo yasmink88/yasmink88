@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=WordPress+%7C+PHP++%7C+HTML+%7C+CSS+%7C+Javascript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=500&lines=WordPress+%7C+PHP++%7C+HTML+%7C+CSS+%7C+Javascript)](https://git.io/typing-svg)
 <!--
 **yasmink88/yasmink88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
